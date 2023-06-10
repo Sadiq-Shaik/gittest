@@ -1,1 +1,1 @@
-this is feature/another-branch text file.
+this is main branch updated text file.
